@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/alcademyorg">
-    <img src="public/alcademy-logo.png" alt="Alcademy Logo" width="200">
+    <img src="assets/images/alcademy-logo.png" alt="Alcademy Logo" width="200">
   </a>
 
   <h1>Alcademy Expo Firebase Starter</h1>
