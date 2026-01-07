@@ -37,7 +37,7 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone <repository-url>
-   cd codeguide-expo-firebase
+   cd alcademy-expo-firebase
    ```
 
 2. **Install dependencies**
@@ -104,13 +104,13 @@ FIREBASE_APP_ID=your_firebase_app_id
 ## Project Structure
 
 ```
-codeguide-expo-firebase/
+alcademy-expo-firebase/
 ├── app/                # Expo Router pages
 ├── components/         # React Native components
 ├── constants/         # Constants and configurations
 ├── hooks/             # Custom hooks
 ├── assets/            # Static assets
-└── documentation/     # Generated documentation from CodeGuide
+└── documentation/     # Generated documentation from Alcademy
 ```
 
 ## Documentation Setup
