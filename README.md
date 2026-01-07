@@ -1,8 +1,15 @@
-[![CodeGuide](/codeguide-backdrop.svg)](https://codeguide.dev)
+<div align="center">
+  <a href="https://github.com/alcademyorg">
+    <img src="public/alcademy-logo.png" alt="Alcademy Logo" width="200">
+  </a>
 
-# CodeGuide Expo Firebase Starter
+  <h1>Alcademy Vite + Supabase Starter</h1>
 
-A modern cross-platform mobile application starter template built with Expo and Firebase, featuring authentication and real-time database integration.
+  <p>
+    A modern web application starter template built with Vite and React, featuring a beautiful UI and Supabase integration.
+  </p>
+</div>
+<br>
 
 ## Tech Stack
 
